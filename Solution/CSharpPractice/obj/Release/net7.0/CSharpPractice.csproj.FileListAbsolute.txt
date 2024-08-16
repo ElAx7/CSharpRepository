@@ -1,0 +1,15 @@
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/bin/Release/net7.0/CSharpPractice
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/bin/Release/net7.0/CSharpPractice.deps.json
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/bin/Release/net7.0/CSharpPractice.runtimeconfig.json
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/bin/Release/net7.0/CSharpPractice.dll
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/bin/Release/net7.0/CSharpPractice.pdb
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/obj/Release/net7.0/CSharpPractice.csproj.AssemblyReference.cache
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/obj/Release/net7.0/CSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/obj/Release/net7.0/CSharpPractice.AssemblyInfoInputs.cache
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/obj/Release/net7.0/CSharpPractice.AssemblyInfo.cs
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/obj/Release/net7.0/CSharpPractice.csproj.CoreCompileInputs.cache
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/obj/Release/net7.0/CSharpPractice.dll
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/obj/Release/net7.0/refint/CSharpPractice.dll
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/obj/Release/net7.0/CSharpPractice.pdb
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/obj/Release/net7.0/CSharpPractice.genruntimeconfig.cache
+/Users/axelorozco/OneDrive - ITESO/Practice/Solution/CSharpPractice/obj/Release/net7.0/ref/CSharpPractice.dll

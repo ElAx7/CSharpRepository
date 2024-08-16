@@ -1,0 +1,15 @@
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/bin/Debug/net7.0/Strings
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/bin/Debug/net7.0/Strings.deps.json
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/bin/Debug/net7.0/Strings.runtimeconfig.json
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/bin/Debug/net7.0/Strings.dll
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/bin/Debug/net7.0/Strings.pdb
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/obj/Debug/net7.0/Strings.csproj.AssemblyReference.cache
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/obj/Debug/net7.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/obj/Debug/net7.0/Strings.AssemblyInfoInputs.cache
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/obj/Debug/net7.0/Strings.AssemblyInfo.cs
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/obj/Debug/net7.0/Strings.csproj.CoreCompileInputs.cache
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/obj/Debug/net7.0/Strings.dll
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/obj/Debug/net7.0/refint/Strings.dll
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/obj/Debug/net7.0/Strings.pdb
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/obj/Debug/net7.0/Strings.genruntimeconfig.cache
+/Users/axelorozco/OneDrive - ITESO/Practice/Strings/Strings/obj/Debug/net7.0/ref/Strings.dll

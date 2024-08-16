@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{1AAC791B-93B9-42F2-A399-A96F35353113}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpPractice/Person.cs">
+    <Files>
+      <File FileName="CSharpPractice/Program.cs" Line="1" Column="1" />
+      <File FileName="CSharpPractice/Person.cs" Line="13" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Solution" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CSharpPractice PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
