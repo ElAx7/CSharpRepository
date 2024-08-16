@@ -1,0 +1,15 @@
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/bin/Debug/net7.0/ValueTypes
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/bin/Debug/net7.0/ValueTypes.deps.json
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/bin/Debug/net7.0/ValueTypes.runtimeconfig.json
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/bin/Debug/net7.0/ValueTypes.dll
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/bin/Debug/net7.0/ValueTypes.pdb
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/obj/Debug/net7.0/ValueTypes.csproj.AssemblyReference.cache
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/obj/Debug/net7.0/ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/obj/Debug/net7.0/ValueTypes.AssemblyInfoInputs.cache
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/obj/Debug/net7.0/ValueTypes.AssemblyInfo.cs
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/obj/Debug/net7.0/ValueTypes.csproj.CoreCompileInputs.cache
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/obj/Debug/net7.0/ValueTypes.dll
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/obj/Debug/net7.0/refint/ValueTypes.dll
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/obj/Debug/net7.0/ValueTypes.pdb
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/obj/Debug/net7.0/ValueTypes.genruntimeconfig.cache
+/Users/axelorozco/Projects/ValueTypes/ValueTypes/obj/Debug/net7.0/ref/ValueTypes.dll

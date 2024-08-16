@@ -1,0 +1,15 @@
+/Users/axelorozco/Projects/Enums/Enums/bin/Debug/net7.0/Enums
+/Users/axelorozco/Projects/Enums/Enums/bin/Debug/net7.0/Enums.deps.json
+/Users/axelorozco/Projects/Enums/Enums/bin/Debug/net7.0/Enums.runtimeconfig.json
+/Users/axelorozco/Projects/Enums/Enums/bin/Debug/net7.0/Enums.dll
+/Users/axelorozco/Projects/Enums/Enums/bin/Debug/net7.0/Enums.pdb
+/Users/axelorozco/Projects/Enums/Enums/obj/Debug/net7.0/Enums.csproj.AssemblyReference.cache
+/Users/axelorozco/Projects/Enums/Enums/obj/Debug/net7.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelorozco/Projects/Enums/Enums/obj/Debug/net7.0/Enums.AssemblyInfoInputs.cache
+/Users/axelorozco/Projects/Enums/Enums/obj/Debug/net7.0/Enums.AssemblyInfo.cs
+/Users/axelorozco/Projects/Enums/Enums/obj/Debug/net7.0/Enums.csproj.CoreCompileInputs.cache
+/Users/axelorozco/Projects/Enums/Enums/obj/Debug/net7.0/Enums.dll
+/Users/axelorozco/Projects/Enums/Enums/obj/Debug/net7.0/refint/Enums.dll
+/Users/axelorozco/Projects/Enums/Enums/obj/Debug/net7.0/Enums.pdb
+/Users/axelorozco/Projects/Enums/Enums/obj/Debug/net7.0/Enums.genruntimeconfig.cache
+/Users/axelorozco/Projects/Enums/Enums/obj/Debug/net7.0/ref/Enums.dll
