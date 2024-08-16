@@ -1,0 +1,15 @@
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/bin/Debug/net7.0/Lists
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/bin/Debug/net7.0/Lists.deps.json
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/bin/Debug/net7.0/Lists.runtimeconfig.json
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/bin/Debug/net7.0/Lists.dll
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/bin/Debug/net7.0/Lists.pdb
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/obj/Debug/net7.0/Lists.csproj.AssemblyReference.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/obj/Debug/net7.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/obj/Debug/net7.0/Lists.AssemblyInfoInputs.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/obj/Debug/net7.0/Lists.AssemblyInfo.cs
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/obj/Debug/net7.0/Lists.csproj.CoreCompileInputs.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/obj/Debug/net7.0/Lists.dll
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/obj/Debug/net7.0/refint/Lists.dll
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/obj/Debug/net7.0/Lists.pdb
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/obj/Debug/net7.0/Lists.genruntimeconfig.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/obj/Debug/net7.0/ref/Lists.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/axelorozco/Projects/Lists/Lists/Lists.csproj",
+      "projectUniqueName": "/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/Lists.csproj",
       "projectName": "Lists",
-      "projectPath": "/Users/axelorozco/Projects/Lists/Lists/Lists.csproj",
+      "projectPath": "/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/Lists.csproj",
       "packagesPath": "/Users/axelorozco/.nuget/packages/",
-      "outputPath": "/Users/axelorozco/Projects/Lists/Lists/obj/",
+      "outputPath": "/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Lists/Lists/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/axelorozco/.nuget/NuGet/NuGet.Config"
