@@ -1,0 +1,15 @@
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/obj/Debug/net7.0/Dates.csproj.AssemblyReference.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/obj/Debug/net7.0/Dates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/obj/Debug/net7.0/Dates.AssemblyInfoInputs.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/obj/Debug/net7.0/Dates.AssemblyInfo.cs
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/obj/Debug/net7.0/Dates.csproj.CoreCompileInputs.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/bin/Debug/net7.0/Dates
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/bin/Debug/net7.0/Dates.deps.json
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/bin/Debug/net7.0/Dates.runtimeconfig.json
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/bin/Debug/net7.0/Dates.dll
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/bin/Debug/net7.0/Dates.pdb
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/obj/Debug/net7.0/Dates.dll
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/obj/Debug/net7.0/refint/Dates.dll
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/obj/Debug/net7.0/Dates.pdb
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/obj/Debug/net7.0/Dates.genruntimeconfig.cache
+/Users/axelorozco/OneDrive - ITESO/CSharpRepository/Dates/Dates/obj/Debug/net7.0/ref/Dates.dll

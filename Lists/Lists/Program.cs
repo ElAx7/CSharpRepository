@@ -27,6 +27,8 @@ namespace Lists
             foreach (var number in numbers)
                 Console.WriteLine(number);
 
+
+         
         }
     }
 }
