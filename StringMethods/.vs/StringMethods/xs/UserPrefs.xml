@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{A1AE335A-AB73-4B21-86C1-2B5EBEE7BDAE}|Default">
-  <MonoDevelop.Ide.ItemProperties.StringMethods FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.StringMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringMethods/Program.cs">
+    <Files>
+      <File FileName="StringMethods/StringUtility.cs" Line="15" Column="40" />
+      <File FileName="StringMethods/Program.cs" Line="63" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringMethods" expanded="True">
+            <Node name="StringMethods">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
